@@ -1,0 +1,42 @@
+#title{background-color: #070e1e;border-bottom-right-radius: 50px; border-bottom-left-radius: 50px;}
+#im{width: 110%;padding-right: 4rem;}
+#h1{color: aliceblue; line-height: 1.5;font-size: 3rem;margin-left: 3rem;}
+.container{padding: 10px 20px 3px 20px;}
+.btn{ color:white;}
+.btn:hover{background-color: white; color: black;}
+.navbar{padding-bottom: 5.5rem; padding-top: 30px;}
+.nav-link{font-size: large;color: white;}
+#an{color: white;}
+#an:hover{color: black;background-color: white;}
+#features{padding: 3rem 10rem; text-align: center;  }
+
+#bob{padding: 3rem;color:#143d59;
+    } 
+        
+
+
+    i:hover{color: #fdba4d;}
+    #test{  padding:5rem  0 5rem; text-align: center; background-color: #070e1e; border-top-right-radius: 100px; border-top-left-radius: 100px;}
+    #lo{width: 15%; }
+    #h2{color: aliceblue; font-size: 2rem;}
+    em{color: aliceblue;font-size: 1rem;}
+    #press{background-color: #070e1e;border-bottom-right-radius: 100px; border-bottom-left-radius: 100px; padding: 0 4rem;}
+    #images{width:20% ;}
+    #pi{padding: 3rem  0 3rem  0; width: 90%;  text-align: center; margin: 0 auto;}
+    #pricing{text-align: center;padding: 4rem;}
+    #btu{width: 70%;}
+    .card-body{background-color: #070e1e; }
+    .card-header{background-color: #070e1e;}
+.list-unstyled{color: white;}
+.my-0{color: white;}
+.card-title{color: wheat;}
+#small{color: white;}
+.col{padding: 2rem;}
+#ie{color: #070e1e;font-size: 3rem;}
+#sim{color: #070e1e;font-size: larger;}
+#cta{background-color: #070e1e;text-align: center;padding-bottom:4rem;border-radius: 30px;
+}
+.cta{padding-top: 3rem; color: white; font-size: 2rem;}
+#ct{margin: 1em;width: 15%; }
+#footer{text-align: center;padding-top: 3rem; padding-bottom: 2rem; color: #070e1e;}
+#ic{margin: 1rem;}
